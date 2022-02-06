@@ -1,0 +1,41 @@
+2021-12-22 19:11:43,599 --------------------------------------------------------------------------------
+2021-12-22 19:11:43,602 Working directory:
+2021-12-22 19:11:43,603   /
+2021-12-22 19:11:43,605    tmp/
+2021-12-22 19:11:43,606     DisplayCAL-mIo9Ql/
+2021-12-22 19:11:43,606 
+2021-12-22 19:11:43,607 Command line:
+2021-12-22 19:11:43,608   /usr/bin/dispread
+2021-12-22 19:11:43,609     -v
+2021-12-22 19:11:43,610     -k
+2021-12-22 19:11:43,611     /usr/share/DisplayCAL/linear.cal
+2021-12-22 19:11:43,611     -d2
+2021-12-22 19:11:43,612     -c1
+2021-12-22 19:11:43,613     -yr
+2021-12-22 19:11:43,614     -P0.5,0.5,50.0
+2021-12-22 19:11:43,615     -X
+2021-12-22 19:11:43,615     ProjectorFamily_07Feb11.ccss
+2021-12-22 19:11:43,616     0_16
+2021-12-22 19:11:43,616 
+2021-12-22 19:11:43,650 DisplayCAL: Starting interaction with subprocess
+2021-12-22 19:11:47,214 Number of patches = 3
+2021-12-22 19:11:47,219 Setting up the instrument
+2021-12-22 19:11:48,343 Product Name:      Colormunki Display
+2021-12-22 19:11:48,344 Serial Number:     CM-19.B-02.504495.10
+2021-12-22 19:11:48,345 Firmware Version:  v2.28
+2021-12-22 19:11:48,346 Firmware Date:     29Jan14
+2021-12-22 19:11:48,351 dispread: Warning - new_dispwin: Expected VideoLUT depth 8 doesn't match actual 10
+2021-12-22 19:11:48,647 Place instrument on test window.
+2021-12-22 19:11:48,651 DisplayCAL: Waiting for send buffer
+2021-12-22 19:11:48,652 DisplayCAL: Detected instrument placement (screen/spot) message
+2021-12-22 19:11:50,154 DisplayCAL: Skipping place instrument on screen message...
+2021-12-22 19:11:50,156 DisplayCAL: Sending buffer: ' '
+2021-12-22 19:11:50,209 Hit Esc or Q to give up, any other key to continue:
+2021-12-22 19:12:18,388 Patch 3 of 3
+2021-12-22 19:12:18,389 The instrument can be removed from the screen.
+2021-12-22 19:12:18,735 Written '0_16.ti3'
+2021-12-22 19:12:18,738 DisplayCAL: Reached EOF (OK)
+2021-12-22 19:12:18,840 dispread exitcode: 0
+2021-12-22 19:12:18,885 RGB level 0 is 0.000000 cd/m2
+2021-12-22 19:12:18,885 RGB level 16 is 0.037915 cd/m2
+2021-12-22 19:12:18,886 Assuming full range output levels
